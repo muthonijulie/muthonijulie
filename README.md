@@ -1,6 +1,6 @@
 👋Hi! I'm Muthoni. 
-I'm a Computer Science student with an interest in python development
-🌱Learning: Python, Django framework
+I'm a fullstack developer with an interest in backend development
+🌱Learning:node js, reactjs,nextjs Python, Django framework
 💡Interest: Backend development
 
 
