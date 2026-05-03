@@ -1,4 +1,4 @@
-👋Hi! I'm Muthoni. 
+👋Hi! I'm Elizabeth Julius. 
 I'm a fullstack developer with an interest in backend development
 🌱Learning:node js, reactjs,nextjs Python, Django framework
 💡Interest: Backend development
